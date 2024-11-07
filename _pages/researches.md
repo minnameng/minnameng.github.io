@@ -8,5 +8,5 @@ author_profile: true
 Thesis
 =====
 
-Bachelor thesis “”.
-Master thesis “”.
+- Bachelor thesis: “Derivative based sensitivity analysis of COVID-19 dynamics with extensions of SIR-models”.
+- Master thesis: “Error analysis of score-based generative diffusion models with densities in Besov spaces”.
